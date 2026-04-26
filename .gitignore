@@ -1,0 +1,7 @@
+# SSH Keys (never commit these)
+*.pem
+*.key
+id_ed25519*
+personal*
+.ssh/
+
