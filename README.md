@@ -36,6 +36,7 @@ npm run dev
 ```
 *The frontend UI will now be running on `http://localhost:5173`. Open this URL in your web browser!*
 
+
 ---
 
 ## 🧪 Testing the Video Editor
